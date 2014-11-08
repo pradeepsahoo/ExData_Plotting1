@@ -1,4 +1,4 @@
-## Program for Plot #2
+## Program for Plot #2.
 
 ## Set directory path
 dir <- "C:/pradeep_sahoo_jda/JH-Data-Science-Course/working_dir/Exploratory_Data_Analysis/assignment1"
